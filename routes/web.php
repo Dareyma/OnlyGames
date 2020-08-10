@@ -26,3 +26,5 @@ Route::get('/publicacion', 'PublicacionController@index')->name('publicacion');
 Auth::routes();
 
 Route::get('/contact', 'ContactController@index')->name('contact');
+
+// papaya
